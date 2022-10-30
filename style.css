@@ -17,6 +17,11 @@
     text-align: center;
   }
 
+  header h1 {
+    color: #1f1f1f;
+    font-size: 40px;
+  }
+
   header a img {
     padding-top: 20px;
     height: 120px;
